@@ -1,3 +1,1 @@
-# Git_ASSGNMENT
-just a demo to complete the assignment 
-# comment
+I am editing the README file. Adding some more details about the project description.
